@@ -1,0 +1,44 @@
+.App {
+	text-align: center;
+}
+
+.themeButton {
+	border: none;
+	background-color: #4d1ea4;
+	color: white;
+}
+
+.themeButton:focus {
+	outline: none;
+}
+
+.loginButton {
+	width: 100%;
+	max-width: 200px;
+	padding: 0.5rem 0px;
+	border-radius: 8px;
+}
+
+.loginCard {
+	padding: 20px 10px;
+	border-radius: 15px;
+	border: none;
+	box-shadow: 0px 10px 10px rgba(77, 30, 164, 0.1);
+}
+
+.cardButton {
+	border: none;
+	background-color: #1e94b8;
+	color: white;
+}
+
+.cardButton:focus {
+	outline: none;
+}
+
+.cardTypeButton {
+	width: 100%;
+	max-width: 100px;
+	padding: 0.5rem 0px;
+	border-radius: 8px;
+}
